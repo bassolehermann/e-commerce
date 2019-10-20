@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "nom_categorie": "Telephone",
+    "image_categorie": "Images/smartphone.jpg",
+    "produit": [
+      {
+        "id": 1,
+        "nom_produit": "iphone",
+        "description_produit": "propre sans default",
+        "prix_produit": 45000,
+        "image_produit": "Images/nexus.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "24 Septembre",
+            "quantite": 2,
+            "status": "",
+            "utilisateur": {
+              "id": 1,
+              "nom_utilisateur": "Hermann",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom_produit": "Samsung Edge 6",
+        "description_produit": "propre sans default",
+        "prix_produit": 65000,
+        "image_produit": "Images/smartphone.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "10 Octobre",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+              {
+                "id": 1,
+                "nom_utilisateur": "Dao",
+                "contact_utilisateur": "49792573"
+              }
+
+          },
+          {
+            "id": 2,
+            "date": "2 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+              {
+                "id": 1,
+                "nom_utilisateur": "Carrol",
+                "contact_utilisateur": "49792733"
+              }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom_categorie": "Accessoires",
+    "image_categorie": "Images/airport.jpg",
+    "produit": [
+      {
+        "id": 1,
+        "nom_produit": "Machine",
+        "description_produit": "45000MHZ",
+        "prix_produit": 50000,
+        "image_produit": "Images/machine.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "10 Octobre",
+            "quantite": 2,
+            "status": "",
+            "utilisateur": {
+              "id": 1,
+              "nom_utilisateur": "Leonie",
+              "contact_utilisateur": "99792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom_produit": "Ecouteur sans fil",
+        "description_produit": "Rechargeable en 15 min pour une duree de 3H",
+        "prix_produit": 4000,
+        "image_produit": "Images/casque.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "12 Aout",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Orlane",
+              "contact_utilisateur": "49792573"
+            }
+
+          },
+          {
+            "id": 2,
+            "date": "2 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Carrol",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nom_produit": "Macbook Air",
+        "description_produit": "Année 2014 propre sans default ,batterie 6h",
+        "prix_produit": 350000,
+        "image_produit": "Images/macbook.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "12 Aout",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Orlane",
+              "contact_utilisateur": "49792573"
+            }
+
+          },
+          {
+            "id": 2,
+            "date": "2 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Carrol",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nom_produit": "Aspirateur",
+        "description_produit": "HIlti",
+        "prix_produit": 35000,
+        "image_produit": "Images/aspirateur.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "12 Aout",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Orlane",
+              "contact_utilisateur": "49792573"
+            }
+
+          },
+          {
+            "id": 2,
+            "date": "2 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Carrol",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nom_produit": "Imac",
+        "description_produit": "Année 2015",
+        "prix_produit": 1200000,
+        "image_produit": "Images/imac.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "12 Aout",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Orlane",
+              "contact_utilisateur": "49792573"
+            }
+
+          },
+          {
+            "id": 2,
+            "date": "2 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Carrol",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom_categorie": "Vetement",
+    "image_categorie": "Images/chemise.jpg",
+    "produit": [
+      {
+        "id": 1,
+        "nom_produit": "Chemise carreau",
+        "description_produit": "",
+        "prix_produit": 9000,
+        "image_produit": "Images/chemise.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "10 Octobre",
+            "quantite": 2,
+            "status": "",
+            "utilisateur": {
+              "id": 1,
+              "nom_utilisateur": "Yvette",
+              "contact_utilisateur": "89792733"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nom_produit": "Pantalon Fire of God",
+        "description_produit": "taille m",
+        "prix_produit": 18000,
+        "image_produit": "Images/fendi.jpg",
+        "commande": [
+          {
+            "id": 1,
+            "date": "12 Aout",
+            "quantite": 5,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Brigitte",
+              "contact_utilisateur": "49762573"
+            }
+
+          },
+          {
+            "id": 2,
+            "date": "19 Septembre",
+            "quantite": 7,
+            "status": "",
+            "utilisateur":
+            {
+              "id": 1,
+              "nom_utilisateur": "Bernadette",
+              "contact_utilisateur": "49792733"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
